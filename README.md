@@ -10,12 +10,9 @@ _It is an app that allows user to keep track of family and friends information i
 
 ## Setup
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
+* _git clone https://github.com/Rugbyman21/address-book-hw.git_
+* _In the address-book folder, left click on address-book.html_
+* _Enjoy_
 
 ## Technologies Used
 
